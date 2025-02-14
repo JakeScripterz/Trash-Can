@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man"))()
+task.wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/Trash-Can/refs/heads/main/Trash%20Can%20VFX"))()
